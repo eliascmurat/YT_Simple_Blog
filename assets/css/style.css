@@ -431,3 +431,8 @@ header .btn-group {
 .load-more:hover {
   background: var(--accent);
 }
+
+/*Aside*/
+.aside {
+  display: none;
+}
