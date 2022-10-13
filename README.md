@@ -1,2 +1,2 @@
-# Blog_APP_DEMO
-HTML5 / CSS3 / JS | Demo version blog website
+# YT_Simple_Blog
+HTML5 / CSS3 / JS | blog website
